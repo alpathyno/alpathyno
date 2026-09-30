@@ -1,6 +1,5 @@
 # Saya Thy.
 
-Saya suka sesuatu yang minimalis.
 
 ---
 
