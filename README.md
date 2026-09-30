@@ -24,4 +24,4 @@ Saya suka sesuatu yang minimalis.
 ---
 
 ### 🌐 Hubungi Saya
-* **Portfolio:** [Link Web Portfolio Anda](https://alpathyno/web-portfolio/) (On Proccess)
+* **Portfolio:** [Link Web Portfolio Anda](https://alpathyno.github.io/web-portfolio/) (On Proccess)
