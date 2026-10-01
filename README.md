@@ -26,4 +26,4 @@
 ---
 
 ### 🌐 Hubungi Saya
-* **Portfolio:** [Link Web Portfolio Anda](https://alpathyno.github.io/web-portfolio/) (On Proccess)
+* **Portfolio:** [Sini Sini](https://alpathyno.github.io/web-portfolio/) (Still Updating..)
